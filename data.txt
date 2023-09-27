@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbv9xj.webp",
+            "title": "standoff 2 0.24.8 1",
+            "text_Content_": "As of my last knowledge update in September 2021, Standoff 2 was a popular first-person shooter game for mobile devices, drawing inspiration from the Counter-Strike series"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkpDb.webp",
+            "title": "standoff 2 0.24.8 2",
+            "text_Content_": "The version you mentioned, 0.24.8, is beyond my last knowledge update, so I may not have specific details about the changes and features introduced in that exact version"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkmOu.webp",
+            "title": "standoff 2 0.24.8 3",
+            "text_Content_": "However, I can provide you with some general ideas and suggestions that might apply to updates or improvements in the game"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkbRe.webp",
+            "title": "standoff 2 0.24.8 4",
+            "text_Content_": "Developers often introduce new maps to keep the gameplay fresh and exciting. In version 0.24.8, you might expect to see additional maps that challenge players with unique environments and strategic elements"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkQlS.webp",
+            "title": "standoff 2 0.24.8 5",
+            "text_Content_": "Updates frequently include new weapons, weapon skins, and character skins. These additions can enhance customization options and offer players a chance to personalize their gameplay experience"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkLf2.webp",
+            "title": "standoff 2 0.24.8 6",
+            "text_Content_": "Game updates often address various bugs, glitches, and performance issues. Version 0.24.8 may have focused on optimizing the game's performance and stability"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkZU7.webp",
+            "title": "standoff 2 0.24.8 7",
+            "text_Content_": "Developers regularly adjust gameplay elements to ensure a fair and balanced experience for all players. This could involve changes to weapon stats, character abilities, or game modes."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJbkDJ9.webp",
+            "title": "standoff 2 0.24.8 8",
+            "text_Content_": "Many mobile games, including Standoff 2, feature limited-time events and challenges. These events often come with exclusive rewards and prizes, encouraging players to participate actively."
         }
     ]
 }
