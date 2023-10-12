@@ -13,7 +13,7 @@
         "mrec_id_1": "mrec_id_1_value",
         "native_id_1": "R-M-3362175-2",
         "open_app_id": "R-M-3362175-5",
-        "store_link": "demo-native-content-yandex"
+        "store_link": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.boostfps.standofffps"
     },
     "guideData": [
         {
